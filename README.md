@@ -22,15 +22,16 @@ python main.py $source $fps $prompt
 A video `output.mp4` will be created in the project directory after the execution of the script. The output will most likely include flickering due to the nature of stable diffusion on nearly identical images.
 
 ### Examples
+The GIFs are ~90MB and take some time to load.
 _Source_
 
-<img src="examples/cat.gif" width="336" height="616">
+<img src="examples/cat.gif" width="40%" height="40%">
 
 _"Turn the cat into a robot"_
 
-<img src="examples/cat-robot.gif" width="336" height="616">
+<img src="examples/cat-robot.gif" width="40%" height="40%">
 
 
 _"Turn the cat into a marble sculpture"_
 
-<img src="examples/cat-marble.gif" width="336" height="616">
+<img src="examples/cat-marble.gif" width="40%" height="40%">
