@@ -24,14 +24,13 @@ A video `output.mp4` will be created in the project directory after the executio
 ### Examples
 _Source_
 
-![Source](examples/cat.gif)
+<img src="examples/cat.gif" width="336" height="616">
 
 _"Turn the cat into a robot"_
 
-![Cat Robot](examples/cat-robot.gif)
+<img src="examples/cat-robot.gif" width="336" height="616">
 
 
 _"Turn the cat into a marble sculpture"_
 
-![Cat Marble](examples/cat-marble.gif)
-
+<img src="examples/cat-marble.gif" width="336" height="616">
