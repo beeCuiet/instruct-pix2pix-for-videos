@@ -1,6 +1,8 @@
 # InstructPix2Pix For Videos
 This simple python script allows users to use the PyTorch implementation of [InstructPix2Pix](https://huggingface.co/timbrooks/instruct-pix2pix) to generate videos where each frame has been passed along the Pix2Pix Stable Diffusion pipeline with a prompt of the user's choosing.
 
+[YouTube Video](https://www.youtube.com/watch?v=JDMkWkzfE5Q)
+
 ## Requirements
 This has been tested on **Python** v3.11.6 using an NVIDIA GeForce RTX 3070. A [Cuda-enabled GPU](https://developer.nvidia.com/cuda-gpus) is highly recommended.
 
